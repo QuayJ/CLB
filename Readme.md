@@ -11,3 +11,4 @@ Milestones
 - A footer on each page
 - 2 section elements on each webpage
 - Published to GitHub
+- etc
